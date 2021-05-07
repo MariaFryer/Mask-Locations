@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../Downloads/Arduino02-SerialOutput-p5"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Arduino02-SerialOutput-p5"
+	}
+}
